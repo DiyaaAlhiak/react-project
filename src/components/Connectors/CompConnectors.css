@@ -1,0 +1,10 @@
+.img {
+    min-height: 70vh;
+    background: url(../../imgs/pexels-eduard-balan-775482.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    border: 10px solid #ffffff;
+    border-radius: 30px;
+    margin: 20px 0 15px 0;
+}
