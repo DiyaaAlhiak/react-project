@@ -3,3 +3,10 @@ border-top: none !important;
 border-left: none !important;
 border-right: none !important;
 }
+.form-control:focus {
+    color: #353535 !important;
+    background-color: white !important;
+    border-color: #9e9d9d !important;
+    outline: 0;
+    box-shadow: none !important;
+}
